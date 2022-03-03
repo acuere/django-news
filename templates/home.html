@@ -9,8 +9,11 @@
 
     <ul>
         {% for post in object_list %}
+
             <b><li><h2> {{ post.title }}</h2></li></b>
             <li> {{ post.text }}</li>
+            <small style="color:red;">article by {{  user.username }} </small> {#<li><p style="color:red;">{{  }}</p></li>#}
+
         {% endfor %}
     </ul>
 </body>
