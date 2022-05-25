@@ -16,4 +16,3 @@ Contains :
   
   update post
 
-![image]()
