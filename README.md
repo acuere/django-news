@@ -1,6 +1,6 @@
 # django-news
 
-**Simple News Website.  **
+**Simple News Website**
 
 Single one page. 
 
